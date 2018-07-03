@@ -1,0 +1,24 @@
+.outter-cont {
+    width: 400px;
+    background: rgba(100,100,100,0.3);
+    height: 400px;
+    padding: 100px;
+}
+.inner-cont {
+    width: 385px;
+    height: 100px;
+    background: white !important;
+    position: relative;
+    right: 90px;
+}
+.inner-cont p {
+    position: relative;
+    top: 30px;
+    font-size: 19px;
+}
+.random-attempt {
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    text-shadow: 2px 2px 3px #222;
+}
